@@ -30,7 +30,7 @@ const roles = {
           .setCustomId("roles-563020739330965524")
           .setLabel("Fandom")
           .setStyle("SECONDARY")
-          .setEmoji("572846818560442368"),
+          .setEmoji("872100256999952436"),
         new functions.MessageButton()
           .setCustomId("roles-563020873855008768")
           .setLabel("Gamepedia")
